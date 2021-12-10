@@ -1,0 +1,38 @@
+{
+	"workshops":[
+		{
+			"id": 0,
+			"title": "SEO Keys",
+			"mentors": "Bilel Amdouni",
+			"description" : "SEO Keys"
+		},
+		{
+			"id": 1,
+			"title": "Progressive Web Apps",
+			"mentors": "Mohamed Karim Oueslati",
+			"description" : "Basics of PWA"
+		},
+		{
+			"id": 2,
+			"title": "Handwritten Digits Recognition",
+			"mentors": "Helmi Rebai",
+			"description" : "Handwritten Digits Recognition"
+		},
+		{
+			"id": 3,
+			"title": "Reinforcement learning",
+			"mentors": "Sabrine Krichen",
+			"description" : "RL"
+		},{
+			"id": 4,
+			"title": "Get Hand on-with Google Cloud Study Jams",
+			"mentors": "Awatef Riahi, Bilal Saidi",
+			"description" : "Get Hand on-with Google Cloud Study Jams"
+		},{
+			"id": 5,
+			"title": "Continuous Deployement to Google Kubernetes Engine(GKE)",
+			"mentors": "Ibtissem Hattab",
+			"description" : "Continuous Deployement to Google Kubernetes Engine(GKE)"
+		}
+	]
+}
